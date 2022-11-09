@@ -4,6 +4,7 @@ version 0.0.1, avec les propositions de github. Plus d'amour à venir ici <3
 - 🔭 Je travaille en ce moment sur :
   - 2 boutiques shopify
   - Sur la BDSOL d'avantage numérique ([APP](https://github.com/avantage-numerique/bdsol-app) / [API](https://github.com/avantage-numerique/bdsol-api))
+  - Application web Laravel
   - Du support de site web Wordpress
 - 🌱 J'apprends tous les jours, mais ces temps-ci je peaufine mon Devops et être Lead Developer.
 - 👯 Je suis ouvert à pas mal toutes les collaborations
