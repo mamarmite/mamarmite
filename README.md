@@ -15,15 +15,15 @@ Je commente des fonctions littérales ou détournées qui m'ont marqué dans le 
 - Mon infolettre `/** commentaires */` Des histoires courte de programmation
 - Optimisation wordpress et Laravel
 - Support shopify
-- Le répertoire structuré [Avnu](https://avnu.ca) d'Avantage numérique
-- Application web Laravel
+- Le répertoire des technocréatifs du croissant boréal en données structurées [Avnu](https://avnu.ca) d'Avantage numérique
+- Application web Laravel, next et/ou expressjs
 
 [Contacte moi pour jaser de ton projet](https://dans.mamarmite.com/p/form/JLnopA3XbZukCTvHi)
 
 # Tu peux me suivre ailleurs
 
 - Je suis ouvert à des collaborations pour des projets open sources pour aider les humains
-- On peut parler de plein de choses, sur [linkedin](https://www.linkedin.com/in/marcandremartin/) ou sur [Instagram](https://instagram.com/lemarcandremartin]
+- On peut parler de plein de choses, sur [linkedin](https://www.linkedin.com/in/marcandremartin/) ou sur [Instagram](https://instagram.com/lemarcandremartin)
 - [J'en dis un peu plus long sur mon site web](https://mamarmite.com)
 
 # Je fais d'autre chose que de la programmation
@@ -40,4 +40,4 @@ Je commente des fonctions littérales ou détournées qui m'ont marqué dans le 
 
 
 ----
-<small>Version 0.0.3, mise à jour le 2024-05-25</small>
+<small>Version 0.0.4, mise à jour le 2024-07-09</small>
