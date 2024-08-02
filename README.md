@@ -4,7 +4,19 @@ Je suis programmeur web, full-stack LAMP, MERN, javascript, typescript, php, css
 > “If you want to be a good archeologist, you gotta get out of the library!”
     Indiana Jones
 
+## Mes forces
 J’ai une grande curiosité pour les nouvelles technologies et je me tiens à l’affût des nouveaux outils, en direct du hub technologique qu’est Saint-Bruno-de-Guigues en Abitibi-Témiscamingue. :) Je peux donc m’ajuster aux besoins du projet et développer une solution web adaptée.
+
+**Au frontend**
+- css/scss
+- Semantique markup
+- Templating (blade, nunchuck, twig, liquid, react, vuejs, angular)
+
+**Au Backend**
+- Architecture
+- expressjs, node
+- Laravel
+- API
 
 # `/** Commentaires */`
 C'est mon infolettre. [Tu peux t'inscrire à /** Commentaires */](https://dashboard.mailerlite.com/forms/556022/96572073475835035/share)
@@ -23,21 +35,22 @@ Je commente des fonctions littérales ou détournées qui m'ont marqué dans le 
 # Tu peux me suivre ailleurs
 
 - Je suis ouvert à des collaborations pour des projets open sources pour aider les humains
-- On peut parler de plein de choses, sur [linkedin](https://www.linkedin.com/in/marcandremartin/) ou sur [Instagram](https://instagram.com/lemarcandremartin)
+- On peut parler de plein de choses, sur [linkedin](https://www.linkedin.com/in/marcandremartin/) ou sur [Instagram](https://instagram.com/marcandredev)
 - [J'en dis un peu plus long sur mon site web](https://mamarmite.com)
 
 # Je fais d'autre chose que de la programmation
 - Je suis aussi copropriétaire d'une ferme maraîchère spécialisée dans la fraise [Nordvie](https://nordvie.ca),
 - j'aime dessiner,
 - Prendre des [photos](https://500px.com/mamarmite)
-- Jouer à des jeux de table (mtg, Échecs, jeux stratégie/ressources)
+- Jouer à des jeux de table (MTG, Échecs, jeux stratégie/ressources)
 - J'ai recommencé à jouer à Eve online 😅
 
 # Ce que je suis en train d'apprendre à maîtriser
-- pagination d'agrégation multi collection dans Mongodb
+- Pagination d'agrégation multi collection dans Mongodb
 - Devops
-- Scrum master
+- Angular et capacitor
+- Lead developpeur et Scrum master
 
 
 ----
-<small>Version 0.0.4, mise à jour le 2024-07-09</small>
+<small>Version 0.0.5, mise à jour le 2024-08-02</small>
