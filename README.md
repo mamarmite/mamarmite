@@ -29,6 +29,7 @@ Je commente des fonctions littérales ou détournées qui m'ont marqué dans le 
 - Support shopify
 - Le répertoire des technocréatifs du croissant boréal en données structurées [Avnu](https://avnu.ca) d'Avantage numérique
 - Application web Laravel, next et/ou expressjs
+- Mise en ligne Omeka S
 
 [Contacte moi pour jaser de ton projet](https://dans.mamarmite.com/p/form/JLnopA3XbZukCTvHi)
 
@@ -37,6 +38,7 @@ Je commente des fonctions littérales ou détournées qui m'ont marqué dans le 
 - Je suis ouvert à des collaborations pour des projets open sources pour aider les humains
 - On peut parler de plein de choses, sur [linkedin](https://www.linkedin.com/in/marcandremartin/) ou sur [Instagram](https://instagram.com/marcandredev)
 - [J'en dis un peu plus long sur mon site web](https://mamarmite.com)
+- [Mon mini this is a fucking website](https://marcandre.dev)
 
 # Je fais d'autre chose que de la programmation
 - Je suis aussi copropriétaire d'une ferme maraîchère spécialisée dans la fraise [Nordvie](https://nordvie.ca),
