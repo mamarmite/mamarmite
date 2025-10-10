@@ -49,10 +49,10 @@ Je commente des fonctions littérales ou détournées qui m'ont marqué dans le 
 - J'ai recommencé à jouer à Eve online 😅
 
 # Ce que je suis en train d'apprendre à maîtriser
--[x] Pagination d'agrégation multi collection dans Mongodb
--[ ] Devops
--[ ] Angular et capacitor
--[ ] Lead developpeur et Scrum master
+- [x] Pagination d'agrégation multi collection dans Mongodb
+- [ ] Devops
+- [ ] Angular et capacitor
+- [ ] Lead developpeur et Scrum master
 
 
 ----
