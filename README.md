@@ -11,6 +11,7 @@ J’ai une grande curiosité pour les nouvelles technologies et je me tiens à l
 - css/scss
 - Semantique markup
 - Templating (blade, nunchuck, twig, liquid, react, vuejs, angular)
+- Nextjs
 
 **Au Backend**
 - Architecture
@@ -48,10 +49,10 @@ Je commente des fonctions littérales ou détournées qui m'ont marqué dans le 
 - J'ai recommencé à jouer à Eve online 😅
 
 # Ce que je suis en train d'apprendre à maîtriser
-- Pagination d'agrégation multi collection dans Mongodb
-- Devops
-- Angular et capacitor
-- Lead developpeur et Scrum master
+-[x] Pagination d'agrégation multi collection dans Mongodb
+-[ ] Devops
+-[ ] Angular et capacitor
+-[ ] Lead developpeur et Scrum master
 
 
 ----
