@@ -12,6 +12,7 @@ J’ai une grande curiosité pour les nouvelles technologies et je me tiens à l
 - Semantique markup
 - Templating (blade, nunchuck, twig, liquid, react, vuejs, angular)
 - Nextjs
+- Astro <3 (parfait pour les mini projets)
 
 **Au Backend**
 - Architecture
