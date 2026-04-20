@@ -27,11 +27,10 @@ Je commente des fonctions littérales ou détournées qui m'ont marqué dans le 
 
 # Je travaille en ce moment sur
 - Mon infolettre `/** commentaires */` Des histoires courte de programmation
-- Optimisation wordpress et Laravel
-- Support shopify
+- Accompagnement entreprise pour être efficace sur le web (shopify et base du web)
 - Le répertoire des technocréatifs du croissant boréal en données structurées [Avnu](https://avnu.ca) d'Avantage numérique
 - Application web Laravel, next et/ou expressjs
-- Mise en ligne Omeka S
+- Données struturés pour le web sémantique.
 
 [Contacte moi pour jaser de ton projet](https://dans.mamarmite.com/p/form/JLnopA3XbZukCTvHi)
 
@@ -51,10 +50,11 @@ Je commente des fonctions littérales ou détournées qui m'ont marqué dans le 
 
 # Ce que je suis en train d'apprendre à maîtriser
 - [x] Pagination d'agrégation multi collection dans Mongodb
-- [ ] Devops
-- [ ] Angular et capacitor
-- [ ] Lead developpeur et Scrum master
+- [/] Devops
+- [/] Angular et capacitor
+- [/] Lead developpeur et Scrum master
+- [/] Ontologie, RDF et technique pour le web sémantique
 
 
 ----
-<small>Version 0.0.5, mise à jour le 2024-08-02</small>
+<small>Version 0.0.6, mise à jour le 2026-04-20</small>
